@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Opeoluwa
-- 👀 I’m interested in building my coding skills
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on building a responsive website
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Deep Learning Research
+- 🌱 I’m currently an Independent Researcher at MLC Nigeria working Bias in LLM (AI fairness)
+- 💞️ I’m looking to collaborate on Deep Learning Research and its relation to the human brain 
 - 📫 How to reach me adediranopeoluwa@gmail.com @iamemzypee twitter
 
 <!---
